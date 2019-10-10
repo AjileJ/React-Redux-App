@@ -22,5 +22,9 @@
 }
 
 html{
-  background: palegoldenrod;
+  background: rgb(19, 17, 1);
+  color:palegoldenrod;
+}
+.dogsbackground{
+  background: rgb(255, 0, 242);
 }
